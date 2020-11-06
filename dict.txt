@@ -67,6 +67,9 @@ ami: to live
 taka: when
 taku: where
 taki: what/why
+akuf: anyone (anybody)
+akaf: everyone (everybody)
+akif: no-one (nobody)
 mot: more
 tom: less
 pik: big
