@@ -39,22 +39,12 @@ Plural is defined by having “x(a)-” prefix.
 
 ## Sentences
 Sentence structure is mainly SVO, but can be any other.
-Copula (ton) is required in every sentence, except general (Present Simple).
+Copula is required in every sentence, except general (Affirmative Present Simple).
 
-Past
-Present
-Future
-+
-S [tan]/V O
-S [tun]/V O
-S [ton]/V O
--
-S \<nei\> [tan]/V O
-S \<nei\> [tun]/V O
-S \<nei\> [ton]/V O
-?
-\<tan\> S [Aux] O
-\<tun\> S [Aux] O
-\<ton\> S [Aux] O
+|   | Past                | Present             | Future              |
+|---|---------------------|---------------------|---------------------|
+| + | S [tan]/V O         | S [tun]/V O         | S [ton]/V O         |
+| - | S \<nei\> [tan]/V O | S \<nei\> [tun]/V O | S \<nei\> [ton]/V O |
+| ? | \<tan\> S [Aux] O   | \<tun\> S [Aux] O   | \<ton\> S [Aux] O   |
 
-Notes: adjectives and nouns are hyphen separated. Nouns can be used as adjectives.
+Notes: adjectives and nouns are hyphen separated.
