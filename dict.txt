@@ -1,0 +1,43 @@
+#### NOUNS ####
+<++>: word
+<++>: fur
+<++>: fire
+sen: Earth
+sek: earth
+<++>: air
+<++>: water
+fum: food
+pok: dog
+tak: parent
+tok: person, human
+<++>: machine
+kit: cat
+kan: language
+kon: container
+<++>: lamp
+
+#### ADJECTIVES ####
+ki: simple
+fu: understandable
+
+#### COLORS ####
+fe: red
+ke: orange
+pe: yellow
+te: green
+xe: blue
+se: violet
+sef: magenta
+
+pif: black
+fip: white
+
+#### VERBS ####
+<++>: to compute
+<++>: to flow
+fup: to understand
+<++>: to lie (horizontal position)
+<++>: to rest
+<++>: to sit
+<++>: to walk
+<++>: to translate
