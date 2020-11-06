@@ -1,24 +1,43 @@
 #### NOUNS ####
-<++>: word
-<++>: fur
-<++>: fire
-sen: Earth
+fok: word
+fux: fur
+fix: fire
+xin: planet
+xinek: Earth
 sek: earth
-<++>: air
-<++>: water
+nak: air
+mok: water
 fum: food
 pok: dog
 tak: parent
 tok: person, human
-<++>: machine
+mak: machine
 kit: cat
 kan: language
 kon: container
-<++>: lamp
+mik: lamp
+xi: number
+
+#### NUMBERS ####
+xoko: 0
+xoku: 1
+xuko: 2
+xuku: 3
+xiko: 4
+xiku: 5
+xako: 6
+xaku: 7
+xoka: 8
+xoki: 9
 
 #### ADJECTIVES ####
 ki: simple
 fu: understandable
+ta: smart
+fo: free (price)
+fi: free (freedom)
+amik: alive
+
 
 #### COLORS ####
 fe: red
@@ -40,4 +59,27 @@ fup: to understand
 <++>: to rest
 <++>: to sit
 <++>: to walk
-<++>: to translate
+nik: to like
+nuk: to look
+ami: to live
+
+#### OTHER ####
+taka: when
+taku: where
+taki: what/why
+mot: more
+tom: less
+pik: big
+kip: little
+tat: that
+tit: this
+at: at
+an: and
+os: or
+nei: no
+kuo: yes
+oko: maybe
+kut: but
+kuto: thanks
+otok: goodbye
+ukut: hello, welcome
