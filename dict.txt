@@ -18,7 +18,7 @@ kon: container
 mik: lamp
 xi: number
 
-#### NUMBERS ####
+#### MATH ####
 xoko: 0
 xoku: 1
 xuko: 2
@@ -29,6 +29,12 @@ xako: 6
 xaku: 7
 xoka: 8
 xoki: 9
+oto: decimal point
+puto: +
+tuko: -
+mono: *
+xono: /
+uko: =
 
 #### ADJECTIVES ####
 ki: simple
