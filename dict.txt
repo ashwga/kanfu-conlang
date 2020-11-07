@@ -70,6 +70,8 @@ taki: what/why
 akuf: anyone (anybody)
 akaf: everyone (everybody)
 akif: no-one (nobody)
+ufi: here
+ifu: there
 mot: more
 tom: less
 pik: big
