@@ -34,7 +34,7 @@ Suffix “-(a)no” – undefined/other.
 Plural is defined by having “x(a)-” prefix.
 
 ## Possessives
-To use possessives add "an" before root (after plural prefix)
+To use possessives add "(a)n(a)" before root (after plural prefix)
 
 ## Pronouns
 | Pronouns | Singular | Plural |
