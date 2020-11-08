@@ -43,6 +43,12 @@ To use possessives add "an" before root (after plural prefix)
 | 2nd      | on       | xon    |
 | 3rd      | ok       | xok    |
 
+| Possessive Pronouns | Singular | Plural |
+|---------------------|----------|--------|
+| 1st                 | xanum    | xaxum  |
+| 2nd                 | xanon    | xaxon  |
+| 3rd                 | xanok    | xaxok  |
+
 ## Math
 Numbers can be written either as numbers or hyphen separated words for numbers.
 Power is written as double multiplication.
