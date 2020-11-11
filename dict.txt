@@ -17,6 +17,10 @@ kan: language
 kon: container
 mik: lamp
 xi: number
+sot: stone
+kasot: cobblestone
+kanisot: gem
+
 
 #### MATH ####
 xoko: 0
@@ -36,13 +40,17 @@ mono: *
 xono: /
 uko: =
 
+
 #### ADJECTIVES ####
 ki: simple
 fu: understandable
 ta: smart
 fo: free (price)
 fi: free (freedom)
+ka: broken
 amik: alive
+kani: shiny
+pati: beautiful
 
 
 #### COLORS ####
@@ -57,17 +65,23 @@ sef: magenta
 pif: black
 fip: white
 
+tan: transparent/translucent
+nat: opaque
+
+fiptan: uncolored
+
 #### VERBS ####
-<++>: to compute
-<++>: to flow
+komput: to compute
+lof: to flow
 fup: to understand
-<++>: to lie (horizontal position)
-<++>: to rest
-<++>: to sit
-<++>: to walk
+xitun: to lie (horizontal position)
+xaton: to rest
+xotan: to sit
+lokan: to walk
 nik: to like
 nuk: to look
 ami: to live
+
 
 #### OTHER ####
 taka: when
@@ -82,6 +96,8 @@ mot: more
 tom: less
 pik: big
 kip: little
+anok: true
+kona: false
 tat: that
 tit: this
 at: at

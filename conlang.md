@@ -1,6 +1,6 @@
 # Kanfu – understandable language.
 
-Kanfu is a polysynthetic language inspired by Ygyde and others. Main idea of Kanfu is readability.
+Kanfu is a polysynthetic language inspired by Ygyde and others. Main idea of Kanfu is simplicity.
 
 # Phonology
 | Consonants | Labial | Avleolar | Velar |
@@ -64,4 +64,4 @@ Copula is required in every sentence, except general (Affirmative Present Simple
 | - | S \<nei\> [tan]/V O | S \<nei\> [tun]/V O | S \<nei\> [ton]/V O |
 | ? | \<tan\> S [Aux] O   | \<tun\> S [Aux] O   | \<ton\> S [Aux] O   |
 
-Notes: adjectives and nouns are hyphen separated; capitalization used only for people's and pets' names
+Notes: adjectives and nouns are hyphen separated (order is: [adj]-[color modifier (black/white)]-[color]-\<noun\>); capitalization used only for people's and pets' names
