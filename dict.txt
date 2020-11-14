@@ -2,9 +2,9 @@
 fok: word
 fux: fur
 fix: fire
-xin: planet
-xinek: Earth
-sek: earth
+xin: planet/world
+xinak: Earth
+sak: earth
 nak: air
 mok: water
 fum: food
@@ -20,6 +20,10 @@ xi: number
 sot: stone
 kasot: cobblestone
 kanisot: gem
+tiku: title
+sakun: screen
+tokat: list
+patin: player
 
 
 #### MATH ####
@@ -54,13 +58,12 @@ pati: beautiful
 
 
 #### COLORS ####
-fe: red
-ke: orange
-pe: yellow
-te: green
-xe: blue
-se: violet
-sef: magenta
+fita: red
+kita: orange
+pita: yellow
+tita: green
+xita: blue
+sita: violet
 
 pif: black
 fip: white
@@ -81,6 +84,7 @@ lokan: to walk
 nik: to like
 nuk: to look
 ami: to live
+kanuso: to cancel
 
 
 #### OTHER ####
@@ -90,6 +94,9 @@ taki: what/why
 akuf: anyone (anybody)
 akaf: everyone (everybody)
 akif: no-one (nobody)
+uf: anything
+af: everything
+if: nothing
 ufi: here
 ifu: there
 mot: more
@@ -98,15 +105,24 @@ pik: big
 kip: little
 anok: true
 kona: false
+foxad: forward
+poxad: backward
 tat: that
 tit: this
 at: at
 an: and
 os: or
-nei: no
+nato: to
+otan: from
+nai: no
 kuo: yes
 oko: maybe
 kut: but
 kuto: thanks
 otok: goodbye
 ukut: hello, welcome
+uko: up
+oku: down
+lon: left
+nol: right
+xuno: ready
