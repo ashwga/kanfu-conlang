@@ -3,7 +3,7 @@ fok: word
 fux: fur
 fix: fire
 xin: planet/world
-xinak: Earth
+xinek: Earth
 sak: earth
 nak: air
 mok: water
@@ -58,12 +58,12 @@ pati: beautiful
 
 
 #### COLORS ####
-fita: red
-kita: orange
-pita: yellow
-tita: green
-xita: blue
-sita: violet
+fe: red
+ke: orange
+pe: yellow
+te: green
+xe: blue
+se: violet
 
 pif: black
 fip: white
@@ -84,7 +84,6 @@ lokan: to walk
 nik: to like
 nuk: to look
 ami: to live
-kanuso: to cancel
 
 
 #### OTHER ####
@@ -114,7 +113,7 @@ an: and
 os: or
 nato: to
 otan: from
-nai: no
+nei: no
 kuo: yes
 oko: maybe
 kut: but
@@ -125,4 +124,5 @@ uko: up
 oku: down
 lon: left
 nol: right
-xuno: ready
+xuno: ok, done
+kanuso: cancel

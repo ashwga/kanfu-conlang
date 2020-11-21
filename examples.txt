@@ -2,22 +2,22 @@ um tan kitani. - I was a cat(M).
 um tun kitana. - I am a cat(F).
 um ton kitano. - I will be a cat(U).
 
-um ton kit.
+um ton kit. - I was a cat.
 
-xon nai tan xakitano. You(P) weren't cats(U,P). 
+xon nai tan xakitano. - You(P) weren't cats(U,P). 
 
 tan okano kitano? - Was they(U,S) a cat(U)?
 
 xum fup xakit. - We understand cats. (we generally do this)
 
-pokakit - fox
-fip-xita-xapokakitani - light blue male foxes
+pokekit - fox
+fip-xita-xapokekitani - light blue male foxes
 
 tokani - male person
 tokana - female person
 tokano - undefined person
 
-um tan kit, kut nik pokakit mot. - I was cat, but like fox more. - I was a cat but liked fox more.
+um nik kit, kut nik pokakit mot. - I like cat, but like fox more. - I was a cat but liked fox more.
 
 nuk at tat kit. Look at that cat.
 
@@ -30,12 +30,10 @@ um nai nik xapok. - I don't like dogs.
 
 tun xon amik? - Are you(P) alive?
 
-tan on nuk pik-xapokakit? - Did you see big foxes?
+tan on nuk pik-xapokekit? - Did you see big foxes?
 
-naxinak fix. - Earth's fire (Fire of Earth).
+naxinek fix. - Earth's fire (Fire of Earth).
 
 xoko-oto-xiku - 0.5
 
 xiku mono-mono xuko uko xuko-xiku - 5 to the power of 2 equals 25.
-
-tita-xita-kanisot - 
