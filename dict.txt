@@ -37,6 +37,11 @@ xako: 6
 xaku: 7
 xoka: 8
 xoki: 9
+
+toxu: thousand
+moxu: million
+poxu: billion
+
 oto: decimal point
 puto: +
 tuko: -
@@ -55,6 +60,8 @@ ka: broken
 amik: alive
 kani: shiny
 pati: beautiful
+xok: real
+kox: imaginary
 
 
 #### COLORS ####
@@ -75,15 +82,16 @@ fiptan: uncolored
 
 #### VERBS ####
 komput: to compute
-lof: to flow
+kinof: to flow
 fup: to understand
 xitun: to lie (horizontal position)
 xaton: to rest
 xotan: to sit
-lokan: to walk
+mokan: to walk
 nik: to like
 nuk: to look
 ami: to live
+fexu: to feel
 
 
 #### OTHER ####
@@ -106,6 +114,8 @@ anok: true
 kona: false
 foxad: forward
 poxad: backward
+foxan: after
+poxan: before
 tat: that
 tit: this
 at: at
@@ -122,7 +132,8 @@ otok: goodbye
 ukut: hello, welcome
 uko: up
 oku: down
-lon: left
-nol: right
+mon: left
+nom: right
+unak: until
 xuno: ok, done
 kanuso: cancel
