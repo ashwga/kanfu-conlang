@@ -44,11 +44,19 @@ To use possessives add "(a)n(a)" before root (after plural prefix)
 | 2nd      | on       | xon    |
 | 3rd      | ok       | xok    |
 
-| Possessive Pronouns | Singular | Plural |
-|---------------------|----------|--------|
-| 1st                 | xanum    | xaxum  |
-| 2nd                 | xanon    | xaxon  |
-| 3rd                 | xanok    | xaxok  |
+### Possesive case
+| Pronouns | Singular | Plural |
+|----------|----------|--------|
+| 1st      | xanum    | xaxum  |
+| 2nd      | xanon    | xaxon  |
+| 3rd      | xanok    | xaxok  |
+
+### Objective case
+| Pronouns | Singular | Plural |
+|----------|----------|--------|
+| 1st      | umax     | xumax  |
+| 2nd      | onax     | xonax  |
+| 3rd      | okax     | xokax  |
 
 ## Math
 Numbers can be written either as numbers or hyphen separated words for numbers.
