@@ -52,6 +52,7 @@ uko: =
 
 #### ADJECTIVES ####
 ki: simple
+neki: hard (difficulty)
 fu: understandable
 ta: smart
 fo: free (price)
@@ -92,6 +93,7 @@ nik: to like
 nuk: to look
 ami: to live
 fexu: to feel
+xapu: happen
 
 
 #### OTHER ####
