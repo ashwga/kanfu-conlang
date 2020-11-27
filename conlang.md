@@ -16,6 +16,7 @@ Kanfu is a polysynthetic language inspired by Ygyde and others. Main idea of Kan
 | Open   | a     | o    |
 
 Syllable structure – (C)V(C).
+No two consonants can be after eachother, f can be after any letter.
 
 Stress is not important.
 # Writing system

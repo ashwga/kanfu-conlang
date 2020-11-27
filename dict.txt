@@ -142,3 +142,5 @@ nom: right
 unak: until
 xuno: ok, done
 kanuso: cancel
+muka: multiple
+akum: singular
