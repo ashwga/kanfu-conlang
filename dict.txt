@@ -94,6 +94,9 @@ nuk: to look
 ami: to live
 fexu: to feel
 xapu: happen
+mek: can
+xit: write
+tix: read
 
 
 #### OTHER ####
