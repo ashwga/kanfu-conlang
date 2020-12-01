@@ -95,8 +95,11 @@ ami: to live
 fexu: to feel
 xapu: happen
 mek: can
-xit: write
-tix: read
+xit: to write
+tix: to read
+luxan: to live
+naxul: to die
+xakan: to want
 
 
 #### OTHER ####

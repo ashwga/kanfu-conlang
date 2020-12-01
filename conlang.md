@@ -23,7 +23,7 @@ Stress is not important.
 Kanfu uses 13 letters of Latin alphabet:
 I, A, O, U, E, M, N, P, T, K, F, S, X.
 # Grammar
-## Morphological rules
+## Orthographic rules
 [plural prefix] + [possesive prefix] + \<root\> + [[i,a,o,u,e] + \<root\>] + [gender suffix]
 
 ## Gender
