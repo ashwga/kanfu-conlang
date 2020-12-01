@@ -23,7 +23,8 @@ kanisot: gem
 tiku: title
 sakun: screen
 tokat: list
-patin: player
+patin: player (person)
+fiko: friend
 
 
 #### MATH ####
@@ -90,7 +91,8 @@ xaton: to rest
 xotan: to sit
 mokan: to walk
 nik: to like
-nuk: to look
+nuk: to look, see
+nukat: to watch
 ami: to live
 fexu: to feel
 xapu: happen
@@ -100,6 +102,10 @@ tix: to read
 luxan: to live
 naxul: to die
 xakan: to want
+xanan: to have
+moxo: move
+naxa: to want
+nuxu: to need
 
 
 #### OTHER ####
@@ -146,4 +152,4 @@ unak: until
 xuno: ok, done
 kanuso: cancel
 muka: multiple
-akum: singular
+akum: single

@@ -1,6 +1,6 @@
 # Kanfu – understandable language.
 
-Kanfu is a polysynthetic language inspired by Ygyde and others. Main idea of Kanfu is simplicity.
+Kanfu is a synthetic language inspired by Ygyde and others. Main idea of Kanfu is simplicity.
 
 # Phonology
 | Consonants | Labial | Avleolar | Velar |
@@ -33,7 +33,7 @@ Suffix “-(a)na” – female.
 Suffix “-(a)no” – undefined/other.
 
 ## Plural/Singular
-Plural is defined by having “x(a)-” prefix.
+Plural is defined by adding “x(a)-” prefix.
 
 ## Possessives
 To use possessives add "(a)n(a)" before root (after plural prefix)
@@ -41,23 +41,23 @@ To use possessives add "(a)n(a)" before root (after plural prefix)
 ## Pronouns
 | Pronouns | Singular | Plural |
 |----------|----------|--------|
-| 1st      | um       | xum    |
-| 2nd      | on       | xon    |
-| 3rd      | ok       | xok    |
+| 1st      | fenum    | fexum  |
+| 2nd      | fenon    | fexon  |
+| 3rd      | fenok    | fexok  |
 
 ### Possesive case
-| Pronouns | Singular | Plural |
-|----------|----------|--------|
-| 1st      | xanum    | xaxum  |
-| 2nd      | xanon    | xaxon  |
-| 3rd      | xanok    | xaxok  |
+| Pronouns | Singular | Plural  |
+|----------|----------|---------|
+| 1st      | fexanum  | fexaxum |
+| 2nd      | fexanon  | fexaxon |
+| 3rd      | fexanok  | fexaxok |
 
 ### Objective case
-| Pronouns | Singular | Plural |
-|----------|----------|--------|
-| 1st      | umax     | xumax  |
-| 2nd      | onax     | xonax  |
-| 3rd      | okax     | xokax  |
+| Pronouns | Singular | Plural  |
+|----------|----------|---------|
+| 1st      | fenumax  | fexumax |
+| 2nd      | fenonax  | fexonax |
+| 3rd      | fenokax  | fexokax |
 
 ## Math
 Numbers can be written either as numbers or hyphen separated words for numbers.
