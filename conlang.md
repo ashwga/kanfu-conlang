@@ -41,9 +41,9 @@ To use possessives add "(a)n(a)" before root (after plural prefix)
 ## Pronouns
 | Pronouns | Singular | Plural |
 |----------|----------|--------|
-| 1st      | fenum    | fexum  |
-| 2nd      | fenon    | fexon  |
-| 3rd      | fenok    | fexok  |
+| 1st      | um       | xum    |
+| 2nd      | on       | xon    |
+| 3rd      | ok       | xok    |
 
 ### Possesive case
 | Pronouns | Singular | Plural  |

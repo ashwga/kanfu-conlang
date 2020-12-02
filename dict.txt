@@ -110,6 +110,7 @@ naxa: to want
 nuxu: to need
 tako: to think
 tuka: to explain
+konatako: to lie (to make an untrue statement)
 
 
 #### OTHER ####
@@ -147,6 +148,7 @@ nei: no
 kuo: yes
 oko: maybe
 kut: but
+tuno: too
 kuto: thanks
 otok: goodbye
 ukut: hello, welcome
