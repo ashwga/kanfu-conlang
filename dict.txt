@@ -166,6 +166,8 @@ uko: up
 oku: down
 mon: left
 nom: right
+nim: out
+min: in
 unak: until
 xuno: ok, done
 kanuso: cancel
