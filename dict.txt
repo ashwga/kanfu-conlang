@@ -28,6 +28,9 @@ fiko: friend
 xomon: day
 xomonak: month
 xomonakun: year
+foma: verb
+putonoma: adjective/adverb
+noma: noun
 
 
 #### MATH ####
@@ -69,6 +72,8 @@ xok: real
 kox: imaginary
 pik: big
 kip: little
+panok: loud
+konap: quiet
 
 
 #### COLORS ####
@@ -98,14 +103,13 @@ mokan: to walk
 nik: to like
 nuk: to look, see
 nukat: to watch
-ami: to live
 fexu: to feel
 xapu: to happen
 mek: can
 xit: to write
 tix: to read
-luxan: to live
-naxul: to die
+tuxan: to live
+naxut: to die
 xakan: to want
 xanan: to have
 moxo: to move
@@ -114,6 +118,7 @@ nuxu: to need
 tako: to think
 tuka: to explain
 konatako: to lie (to make an untrue statement)
+fexani: to like
 
 
 #### OTHER ####
@@ -123,9 +128,11 @@ taki: what/why
 akuf: anyone (anybody)
 akaf: everyone (everybody)
 akif: no-one (nobody)
+akef: someone
 uf: anything
 af: everything
 if: nothing
+ef: something
 ufi: here
 ifu: there
 mot: more
