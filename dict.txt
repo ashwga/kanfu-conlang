@@ -64,6 +64,8 @@ kani: shiny
 pati: beautiful
 xok: real
 kox: imaginary
+pik: big
+kip: little
 
 
 #### COLORS ####
@@ -95,7 +97,7 @@ nuk: to look, see
 nukat: to watch
 ami: to live
 fexu: to feel
-xapu: happen
+xapu: to happen
 mek: can
 xit: to write
 tix: to read
@@ -103,9 +105,11 @@ luxan: to live
 naxul: to die
 xakan: to want
 xanan: to have
-moxo: move
+moxo: to move
 naxa: to want
 nuxu: to need
+tako: to think
+tuka: to explain
 
 
 #### OTHER ####
@@ -122,8 +126,7 @@ ufi: here
 ifu: there
 mot: more
 tom: less
-pik: big
-kip: little
+pona: now
 anok: true
 kona: false
 foxad: forward
@@ -132,6 +135,9 @@ foxan: after
 poxan: before
 tat: that
 tit: this
+panok: here
+konap: there
+tipaf: therefore
 at: at
 an: and
 os: or
