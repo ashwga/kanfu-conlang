@@ -25,6 +25,9 @@ sakun: screen
 tokat: list
 patin: player (person)
 fiko: friend
+xomon: day
+xomonak: month
+xomonakun: year
 
 
 #### MATH ####
