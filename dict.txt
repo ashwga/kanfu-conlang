@@ -154,6 +154,7 @@ an: and
 os: or
 nato: to
 otan: from
+pano: with, using
 nei: no
 kuo: yes
 oko: maybe
