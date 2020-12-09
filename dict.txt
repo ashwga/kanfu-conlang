@@ -31,6 +31,7 @@ xomonakun: year
 foma: verb
 putonoma: adjective/adverb
 noma: noun
+sok: liquid
 
 
 #### MATH ####
@@ -119,6 +120,10 @@ tako: to think
 tuka: to explain
 konatako: to lie (to make an untrue statement)
 fexani: to like
+tafexo: to guess
+xifu: to mean (something)
+puxan: to build/create
+naxup: to destroy
 
 
 #### OTHER ####
