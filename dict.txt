@@ -32,6 +32,10 @@ foma: verb
 putonoma: adjective/adverb
 noma: noun
 sok: liquid
+enfo: education
+kontok: group
+enkon: class
+enkontok: classmates
 
 
 #### MATH ####
@@ -124,12 +128,14 @@ tafexo: to guess
 xifu: to mean (something)
 puxan: to build/create
 naxup: to destroy
+nasen: to ask
 
 
 #### OTHER ####
 taka: when
 taku: where
 taki: what/why
+take: how
 akuf: anyone (anybody)
 akaf: everyone (everybody)
 akif: no-one (nobody)
@@ -160,6 +166,7 @@ os: or
 nato: to
 otan: from
 pano: with, using
+sano: for
 nei: no
 kuo: yes
 oko: maybe
@@ -168,6 +175,7 @@ tuno: too
 kuto: thanks
 otok: goodbye
 ukut: hello, welcome
+utepa: please/thanks
 uko: up
 oku: down
 mon: left
