@@ -129,6 +129,7 @@ xifu: to mean (something)
 puxan: to build/create
 naxup: to destroy
 nasen: to ask
+exana: to exist
 
 
 #### OTHER ####
@@ -136,6 +137,7 @@ taka: when
 taku: where
 taki: what/why
 take: how
+es: if
 akuf: anyone (anybody)
 akaf: everyone (everybody)
 akif: no-one (nobody)
@@ -144,6 +146,7 @@ uf: anything
 af: everything
 if: nothing
 ef: something
+onat: only
 ufi: here
 ifu: there
 mot: more

@@ -70,8 +70,8 @@ Copula is required in every sentence, except general (Affirmative Present Simple
 
 |   | Past                | Present             | Future              |
 |---|---------------------|---------------------|---------------------|
-| + | S [tan]/V O         | S [tun]/V O         | S [ton]/V O         |
-| - | S \<nei\> [tan]/V O | S \<nei\> [tun]/V O | S \<nei\> [ton]/V O |
-| ? | \<tan\> S [Aux] O   | \<tun\> S [Aux] O   | \<ton\> S [Aux] O   |
+| + | S [tan]/V O         | S [ton]/V O         | S [tun]/V O         |
+| - | S \<nei\> [tan]/V O | S \<nei\> [ton]/V O | S \<nei\> [tun]/V O |
+| ? | \<tan\> S [Aux] O   | \<ton\> S [Aux] O   | \<tun\> S [Aux] O   |
 
 Notes: adjectives and nouns are hyphen separated (order is: [adj]-[color modifier (black/white)]-[color]-\<noun\>); capitalization used only for names.
