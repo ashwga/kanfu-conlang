@@ -38,6 +38,26 @@ enkon: class
 enkontok: classmates
 
 
+#### BODY PARTS ####
+pote: body
+ukopote: arm
+okupote: leg
+kipukopote: hand
+kipokupote: foot
+kipukipukopote: finger
+kipokipokupote: toe
+xako: hair
+xeka: head
+xake: face
+fenan: nose
+nuken: eye
+xanen: ear
+paken: breast
+penak: vagina
+pisan: penis
+pikas: testicle
+
+
 #### MATH ####
 xoko: 0
 xoku: 1
@@ -76,7 +96,7 @@ pati: beautiful
 xok: real
 kox: imaginary
 pik: big
-kip: little
+kip: small/little
 panok: loud
 konap: quiet
 
@@ -130,6 +150,9 @@ puxan: to build/create
 naxup: to destroy
 nasen: to ask
 exana: to exist
+fenax: to smell (something)
+fanex: to smell of (smth)
+xanex: to hear
 
 
 #### OTHER ####
@@ -185,6 +208,8 @@ mon: left
 nom: right
 nim: out
 min: in
+foxa: front
+poxa: back
 unak: until
 xuno: ok, done
 kanuso: cancel
